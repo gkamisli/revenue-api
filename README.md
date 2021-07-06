@@ -36,5 +36,5 @@ Need to assign <name> to the default IP address (127.0.0.1) in `hosts`
 - Different start and end dates for /hourly: `https://<name>/hourly?branch=352h67i328fh&from=2021-02-04&to=2021-02-05`
 
 **Swagger UI**:
-- https://<name>/
+- `https://<name>/`
 
